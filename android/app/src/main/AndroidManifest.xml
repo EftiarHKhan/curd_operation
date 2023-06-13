@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.curd_operation">
+    package="com.resoftltd.curdoperation">
    <application
         android:label="curd_operation"
         android:name="${applicationName}"

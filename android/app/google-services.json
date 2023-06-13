@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611930971416",
+    "project_id": "curd-operation-351e5",
+    "storage_bucket": "curd-operation-351e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611930971416:android:dfa2127806bce6044d926d",
+        "android_client_info": {
+          "package_name": "com.resoftltd.curdoperation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611930971416-dm01b097hsmqtgqdehs6b1r676gm7kfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hU6po15mITiC4fjt3nD_cAqvI4jd2DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611930971416-dm01b097hsmqtgqdehs6b1r676gm7kfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

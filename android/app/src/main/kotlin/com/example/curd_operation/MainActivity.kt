@@ -1,4 +1,4 @@
-package com.example.curd_operation
+package com.resoftltd.curdoperation
 
 import io.flutter.embedding.android.FlutterActivity
 
