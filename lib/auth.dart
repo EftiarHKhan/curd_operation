@@ -17,7 +17,7 @@ class Auth {
     );
   }
 
-  Future<void> createInWithEmailAndPassword({
+  Future<void> createUserWithEmailAndPassword({
     required String email,
     required String password,
   }) async {
